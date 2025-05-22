@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on PT. Ivatama Teknologi
 
+### Skills
 ![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
