@@ -28,4 +28,4 @@
 ![https://x.com/abdaziznet](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
 ##### My github stats
-[![Abdul Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdaziznet)](https://github.com/abdaziznet/github-readme-stats)
+[![Abdul Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdaziznet&show_icons=true&theme=gruvbox)](https://github.com/abdaziznet/github-readme-stats)
