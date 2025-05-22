@@ -21,8 +21,8 @@
 
 ##### Connect with me
 
-![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![image](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![https://facebook.com/fb.abdaziz](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![https://instagram.com/abdaziznet](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://tiktok.com/abdaziznet](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://linkedin.com/in/abdaziznet](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://x.com/abdaziznet](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
