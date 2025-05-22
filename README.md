@@ -2,8 +2,6 @@
 
 ### Hello World! I'm Abdul Aziz 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently working on PT. Ivatama Teknologi
 
 ### Skills
