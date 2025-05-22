@@ -1,8 +1,7 @@
 ![readmebox (1)](https://github.com/abdaziznet/abdaziznet/assets/57751904/de527020-7fe4-490d-b3ff-f005cfdeffbe)
 
-
 ### Hi there 👋
-<!--
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
