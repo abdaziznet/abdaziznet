@@ -26,3 +26,6 @@
 ![https://tiktok.com/abdaziznet](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![https://linkedin.com/in/abdaziznet](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://x.com/abdaziznet](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+##### My github stats
+[![Abdul Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdaziznet)](https://github.com/abdaziznet/github-readme-stats)
